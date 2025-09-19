@@ -1,4 +1,3 @@
-# .github
 # 🧊 Cuboid-Inc
 *Building the future, one cube at a time* ✨
 
