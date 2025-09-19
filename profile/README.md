@@ -1,5 +1,5 @@
 # 🧊 Cuboid-Inc
-*Building the future, one cube at a time* ✨
+*Pledge to Innovation* ✨
 
 [![Organization](https://img.shields.io/badge/Type-Organization-blue.svg)](https://github.com/Cuboid-Inc)
 [![Repositories](https://img.shields.io/badge/Repositories-7-brightgreen.svg)](https://github.com/orgs/Cuboid-Inc/repositories)
