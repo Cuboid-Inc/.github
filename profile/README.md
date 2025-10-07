@@ -27,7 +27,7 @@ We strive to simplify complex technical challenges by providing:
 <div align="center">
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/Cuboid-Inc?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=gold)
-![GitHub issues](https://img.shields.io/github/issues-search/Cuboid-Inc?query=org%3ACuboid-Inc%20is%3Aopen&style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=red)
+![GitHub issues](https://img.shields.io/github/issues/Cuboid-Inc?query=org%3ACuboid-Inc%20is%3Aopen&style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=red)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr-search/Cuboid-Inc?query=org%3ACuboid-Inc%20is%3Aopen&style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=blue)
 ![Contributors](https://img.shields.io/badge/Contributors-10%2B-orange?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
 
